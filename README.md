@@ -12,7 +12,7 @@ This repo contains the project used during the course Welcome to the Django of B
 
 You will need to open your local directory `/wttd-project`
 
-Aftter this, is necessary to create the virtual env.
+Aftter this, is necessary to create a virtual environment.
 
 We use the command `python -m venv .wttd` (I used the name .wttd but you can use other name)
 
